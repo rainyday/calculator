@@ -4,6 +4,7 @@ This worksheet will guide you through the process of applying **Test-Driven Deve
 
 ---
 
+
 ## Case Description
 
 You are asked to build a `Calculator` module that supports the following operations:
@@ -85,4 +86,8 @@ Write each test first, make sure it fails, then write the implementation.
 
 ---
 
-Happy TDD-ing!
+💡 **Extra Challenge!**  
+If this calculator case feels too easy for you, maybe basic math is already beneath your greatness.  
+Feel free to level up with the **TDD Bus Fare** repo – where real-world logic and chaos await.  
+👉 [Go to the Bus Fare repo](https://github.com/alfhisa/tutorial-tdd-bus-fare)
+
